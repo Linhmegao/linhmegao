@@ -3,7 +3,6 @@ layout: post
 title: "Hôm nay Gạo cắt tóc không khóc"
 date: 2026-06-30
 ---
-
 Nhìn con ngồi yên trên ghế, mình chợt nhớ đến những lần trước.
 Ngày ấy, cứ nhắc đến cắt tóc là hai mẹ con đã chuẩn bị tinh thần.
 Con khóc từ lúc ngồi lên ghế đến lúc cắt xong.
